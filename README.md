@@ -1,9 +1,15 @@
 # Analisis_monologos_Madrid
+
+![club_de_la_Comedia](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/imagenes_presentacion/e62296bd-16e5-4073-bfda-f8f958002454_16-9-aspect-ratio_default_0.jpg)
+
 ## INTRODUCCIÓN
 
 En Madrid existe un gran mercado de comedia, donde tenemos numerosos shows, open mics y concursos de comedia distribuidos por diferentes locales. 
 
 Para la venta de entradas de estos eventos la plataforma principal es Atrápalo, donde el público que acude a estos espectáculos puntúa y opina sobre ellos. Esto es muy importante para los cómicos y las productoras de comedia, ya que estas puntuaciones y opiniones en esta web puede hacer que el show funcione o fracase.
+
+![atrapalo](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/imagenes_presentacion/Ofertas-del-d%C3%ADa-propuesta-de-valor-de-Atr%C3%A1palo-destacada.png)
+
 
 ## OBJETIVOS
 
@@ -48,4 +54,5 @@ El objetivo de este proyecto va a ser comparar los precios y opiniones de Atráp
 
 - De esta manera, hemos hecho una gráfica comparativa entre la puntuación y en número de comentarios y los que mejor parados salen son ‘La Chocita del Loro’ de Carabanchel,  ‘El Club de la Comedia’ y el show de David Guapo.
 
-  ![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_shows/estadisticas_notas_shows.PNG)
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_shows/estadisticas_notas_shows.PNG)
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/imagenes_presentacion/david.png)
