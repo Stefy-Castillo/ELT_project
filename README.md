@@ -23,6 +23,9 @@ El objetivo de este proyecto va a ser comparar los precios y opiniones de Atráp
 
 - La información adicional se obtuvo de google, también mediante web scraping, donde sacamos los datos y puntuaciones de google de los diferentes locales donde se realizan los shows de comedia. El proceso se puede ejecutar con el archivo python "03_extraccion_ubicaciones_google.py".
 
+## Diagrama BBDD SQL
+
+![SQL](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/Tablas%20monologos.png)
 
 ## CONCLUSIONES
 
