@@ -35,3 +35,17 @@ El objetivo de este proyecto va a ser comparar los precios y opiniones de Atráp
 ![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/graficas_conclusiones/porcentajes_open_mics.PNG)
 
 - Así mismo, en tema de open_mics el claro ganador en cuanto a locales es el 'Teatro de las Aguas', que pese a tener el open con la entrada más cara, tiene la puntuación máxima por parte de los espectadores en Atrápalo y dos de sus open mics están en el ranking:
+
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_open_mics/top_open_mics.PNG)
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_open_mics/datos_estadisticas_opens_teatro_de_las_aguas.PNG)
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_open_mics/grafica_estadisticas_teatro%20de%20las%20aguas.PNG)
+
+- En tema de shows, nos salen que hay muchos que tienen la puntuación máxima, pero son shows que no tienen ni 20 comentarios.
+
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_shows/estadisticas_shows.PNG)
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_shows/top_shows.PNG)
+![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_shows/shows_mayor%20nota.PNG)
+
+- De esta manera, hemos hecho una gráfica comparativa entre la puntuación y en número de comentarios y los que mejor parados salen son ‘La Chocita del Loro’ de Carabanchel,  ‘El Club de la Comedia’ y el show de David Guapo.
+
+  ![estadisticas_cuentas_locales_simplificadas](https://github.com/Stefy-Castillo/ELT_project/blob/main/04_imagenes/estadisticas_shows/estadisticas_notas_shows.PNG)
