@@ -17,11 +17,22 @@ El objetivo de este proyecto va a ser comparar los precios y opiniones de Atráp
 
 ## DATOS
 
-- Se realizó un primer web scraping para todos los monólogos de madrid disponibles en Atrápalo. El proceso se puede ejecutar directamente con el archivo python "01_extraccion_datos_atrapalo.py".
+### Web Scraping
 
-- Al ver que había un error en la extracción de los artistas se hizo un nuevo web scraping solo de los artistas. El proceso se puede ejecutar directamente con el archivo python "02_extraccion_artistas_atrapalo.py".
+- Se realizó un primer web scraping para todos los monólogos de madrid disponibles en Atrápalo. El proceso se puede ver completamente explicado en el archivo "\02_cuadernos\01_scraping\01_extraccion_datos_atrapalo.ipynb".
 
-- La información adicional se obtuvo de google, también mediante web scraping, donde sacamos los datos y puntuaciones de google de los diferentes locales donde se realizan los shows de comedia. El proceso se puede ejecutar con el archivo python "03_extraccion_ubicaciones_google.py".
+- Al ver que había un error en la extracción de los artistas se hizo un nuevo web scraping solo de los artistas. El proceso se puede ver completamente explicado en el archivo "\02_cuadernos\01_scraping\02_extraccion_artistas_atrapalo.ipynb".
+
+- La información adicional se obtuvo de google, también mediante web scraping, donde sacamos los datos y puntuaciones de google de los diferentes locales donde se realizan los shows de comedia. El proceso se puede ver completamente explicado en el archivo "\02_cuadernos\01_scraping\03_extraccion_ubicaciones_google.ipynb".
+
+### Limpieza de datos
+
+- Se realizó la limpieza del CSV de los locales. El proceso se puede ver completamente explicado en el archivo "\02_cuadernos\02_limpieza_csvs\01_limpieza_locales.ipynb".
+
+- Se realizó la limpieza del CSV de los shows. El proceso se puede ver completamente explicado en el archivo "\02_cuadernos\02_limpieza_csvs\02_limpieza_shows.ipynb".
+
+- Se realizó una comparación de los datos de artistas que teniamos de los dos web scraping y lo unificamos. El proceso se puede ver completamente explicado en el archivo "\02_cuadernos\02_limpieza_csvs\03_Borrador_union_artistas.py".
+
 
 ## Diagrama BBDD SQL
 
