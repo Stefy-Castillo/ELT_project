@@ -17,7 +17,7 @@ El objetivo de este proyecto va a ser comparar los precios y opiniones de Atráp
 
 ## DATOS
 
-### Web Scraping
+### web Scraping
 
 - Se realizó un primer web scraping para todos los monólogos de madrid disponibles en Atrápalo. El proceso se puede ver completamente explicado en el archivo "\02_cuadernos\01_scraping\01_extraccion_datos_atrapalo.ipynb".
 
